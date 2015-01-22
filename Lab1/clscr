@@ -1,0 +1,3 @@
+g++ client.cpp -o client
+
+./client 1234 test.txt

@@ -1,0 +1,7 @@
+g++ server.cpp -o server
+
+./server 1234 
+
+g++ client.cpp -o client
+
+./client 1234 test.txt
